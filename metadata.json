@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Chat Animator",
+  "description": "A conversational voice app inspired by chat animation tools. It features real-time voice interaction using Gemini Live API and a customizable chat UI preview.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
